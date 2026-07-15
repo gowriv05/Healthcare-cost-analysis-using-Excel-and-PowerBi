@@ -1,5 +1,18 @@
 # Healthcare-cost-analysis-using-Excel-and-PowerBi
+## Dataset
 
+Due to large file size, the full datasets are hosted on Google Drive:
+
+- [Raw Dataset and Cleaned Dataset:](https://drive.google.com/drive/folders/1xgLysBId95lKesaegBVHCQK1MMkc0-i5?usp=sharing)
+
+## Sample Data
+
+A sample dataset (10,000 rows) is included in this repository for testing and demonstration purposes.
+
+##  Instructions
+1. Download the sample dataset from this repository.
+2. For full analysis, use the Google Drive datasets.
+3. Open the Power BI file to view dashboards.
 
 ##  Project Overview
 This project analyzes healthcare cost data to understand the gap between hospital charges, Medicare payments, and patient burden. The goal is to identify cost inefficiencies and improve transparency in healthcare pricing.
